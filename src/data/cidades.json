@@ -89,5 +89,50 @@
       "abre": "09:00",
       "fecha": "18:00"
     }
+  },
+  {
+    "slug": "curitiba",
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "regiao": "Grande Curitiba",
+    "endereco": "R. XV de Novembro, 700",
+    "complemento": "Sala 304 – Centro",
+    "cep": "80020-310",
+    "bairro": "Centro",
+    "telefone": "(14) 98119-9341",
+    "telefoneRaw": "+5514981199341",
+    "whatsappLink": "https://wa.me/5514981199341?text=Ol%C3%A1!%20Gostaria%20de%20solicitar%20uma%20cota%C3%A7%C3%A3o%20de%20ouro%20em%20Curitiba.",
+    "instagram": "https://www.instagram.com/riviera_ourobauru",
+    "instagramHandle": "@riviera_ouro",
+    "mapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3602.6!2d-49.2731!3d-25.4284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dce4150e2af877%3A0x0!2sR.+XV+de+Novembro%2C+700+-+Centro%2C+Curitiba+-+PR%2C+80020-310!5e0!3m2!1spt-BR!2sbr!4v1700000000002",
+    "geoLat": -25.4284,
+    "geoLng": -49.2731,
+    "bairrosAtendidos": [
+      "Centro", "Batel", "Água Verde", "Bigorrilho", "Mercês",
+      "Portão", "São Francisco", "Rebouças", "Cristo Rei", "Hugo Lange"
+    ],
+    "seo": {
+      "title": "Compra de Ouro em Curitiba | Riviera Ouro",
+      "description": "Venda seu ouro em Curitiba com segurança e receba na hora. Melhor cotação de ouro em Curitiba – PR. Avaliação gratuita no centro da cidade.",
+      "canonical": "https://rivieraouro.com.br/compra-de-ouro-curitiba",
+      "ogImage": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/5d5d82af-a76a-496e-b133-fbe991ee2c35/id-preview-1679198b--42c7a265-e4ea-47de-bb76-6d1bcc4fd490.lovable.app-1774280357027.png"
+    },
+    "textosUnicos": {
+      "heroParagrafo": "Atendemos clientes de Curitiba e toda a região metropolitana, com condições especiais para volumes acima de 100g.",
+      "especialistaParagrafo": "A Riviera chegou a Curitiba! Somos especialistas em compra de ouro com avaliação gratuita, cotação justa e pagamento na hora. Trabalhamos com correntes, anéis, pulseiras, brincos, relógios e ouro antigo ou quebrado.",
+      "especialistaParagrafo2": "Se você deseja vender ouro em Curitiba, conte com um atendimento seguro, discreto e sem enrolação. Nossa equipe está localizada no centro da cidade, de fácil acesso por transporte público.",
+      "ondeParagrafo": "Procurando onde vender ouro em Curitiba com a melhor cotação? A Riviera oferece avaliação gratuita, pagamento imediato em dinheiro e total transparência no processo. Sem agendamento, sem burocracia.",
+      "ondeParagrafo2": "Somos referência em compra de ouro no Paraná, atendendo quem busca o justo pelo seu bem. Nossa loja no centro de Curitiba é de fácil acesso e funciona de segunda a sexta. Venha fazer uma avaliação sem compromisso.",
+      "footerTagline": "Compra de ouro e acessórios em Curitiba com segurança e a melhor cotação."
+    },
+    "schemaGeo": {
+      "latitude": -25.4284,
+      "longitude": -49.2731
+    },
+    "horarioFuncionamento": {
+      "diasSemana": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "abre": "09:00",
+      "fecha": "18:00"
+    }
   }
 ]
